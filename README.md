@@ -7,6 +7,9 @@
 
 ## Introduction
 
+Decided to make a little repo. Will be useful for whenever i'll need these at
+hand.
+
 #### Who are these for?
 > The powerusers
 
