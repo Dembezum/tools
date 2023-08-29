@@ -28,4 +28,4 @@ hand.
 
 #### License
 
-[gpl-3.0](LICENSE.md)
+[gpl-3.0](license.md)
